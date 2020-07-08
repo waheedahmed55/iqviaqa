@@ -42,6 +42,8 @@ To run the tests execute the below command
 
 `python -m unittest`
 
+> Note: Running this command will clear the database
+
 ### Sample Output
 
 ```text
